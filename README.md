@@ -8,7 +8,7 @@ you need to install the following packages:
           
 What does this script do?
 
--> takes an argument from the command line that can be said as search object(if no argument is passed it is set as "Wallpaper" by default)
+-> takes an argument from the command line that can be said as search object(if no argument is passed set www.bing.com background wallpaper to your desktop wallpaper)
 
 -> search for the argument in yahoo image
 
